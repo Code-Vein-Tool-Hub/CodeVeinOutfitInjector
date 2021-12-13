@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum SkinColor3
+	{
+		palette_st_pinkbrown00,
+		palette_st_pinkbrown10,
+		palette_st_pinkbrown20,
+		palette_st_pinkbrown30,
+		palette_st_pinkbrown40,
+		palette_st_pinkbrown50,
+		palette_st_pinkbrown60,
+		palette_st_pinkbrown70,
+		palette_st_pinkbrown01,
+		palette_st_pinkbrown11,
+		palette_st_pinkbrown21,
+		palette_st_pinkbrown31,
+		palette_st_pinkbrown41,
+		palette_st_pinkbrown51,
+		palette_st_pinkbrown61,
+		palette_st_pinkbrown71,
+		palette_st_pinkbrown02,
+		palette_st_pinkbrown12,
+		palette_st_pinkbrown22,
+		palette_st_pinkbrown32,
+		palette_st_pinkbrown42,
+		palette_st_pinkbrown52,
+		palette_st_pinkbrown62,
+		palette_st_pinkbrown72,
+	}
+}

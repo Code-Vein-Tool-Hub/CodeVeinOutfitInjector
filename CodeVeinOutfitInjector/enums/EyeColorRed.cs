@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum EyeColorRed
+	{
+		palette_eye_red00,
+		palette_eye_red10,
+		palette_eye_red20,
+		palette_eye_red30,
+		palette_eye_red40,
+		palette_eye_red50,
+		palette_eye_red60,
+		palette_eye_red70,
+		palette_eye_red01,
+		palette_eye_red11,
+		palette_eye_red21,
+		palette_eye_red31,
+		palette_eye_red41,
+		palette_eye_red51,
+		palette_eye_red61,
+		palette_eye_red71,
+		palette_eye_red02,
+		palette_eye_red12,
+		palette_eye_red22,
+		palette_eye_red32,
+		palette_eye_red42,
+		palette_eye_red52,
+		palette_eye_red62,
+		palette_eye_red72,
+	}
+}

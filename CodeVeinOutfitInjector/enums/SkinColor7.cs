@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum SkinColor7
+	{
+		palette_st_darkbrown00,
+		palette_st_darkbrown10,
+		palette_st_darkbrown20,
+		palette_st_darkbrown30,
+		palette_st_darkbrown40,
+		palette_st_darkbrown50,
+		palette_st_darkbrown60,
+		palette_st_darkbrown70,
+		palette_st_darkbrown01,
+		palette_st_darkbrown11,
+		palette_st_darkbrown21,
+		palette_st_darkbrown31,
+		palette_st_darkbrown41,
+		palette_st_darkbrown51,
+		palette_st_darkbrown61,
+		palette_st_darkbrown71,
+		palette_st_darkbrown02,
+		palette_st_darkbrown12,
+		palette_st_darkbrown22,
+		palette_st_darkbrown32,
+		palette_st_darkbrown42,
+		palette_st_darkbrown52,
+		palette_st_darkbrown62,
+		palette_st_darkbrown72,
+	}
+}

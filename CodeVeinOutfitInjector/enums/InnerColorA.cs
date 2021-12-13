@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum InnerColorA
+	{
+		palette_preset_inner_A00,
+		palette_preset_inner_A10,
+		palette_preset_inner_A20,
+		palette_preset_inner_A30,
+		palette_preset_inner_A40,
+		palette_preset_inner_A50,
+		palette_preset_inner_A60,
+		palette_preset_inner_A70,
+		palette_preset_inner_A01,
+		palette_preset_inner_A11,
+		palette_preset_inner_A21,
+		palette_preset_inner_A31,
+		palette_preset_inner_A41,
+		palette_preset_inner_A51,
+		palette_preset_inner_A61,
+		palette_preset_inner_A71,
+		palette_preset_inner_A02,
+		palette_preset_inner_A12,
+		palette_preset_inner_A22,
+		palette_preset_inner_A32,
+		palette_preset_inner_A42,
+		palette_preset_inner_A52,
+		palette_preset_inner_A62,
+		palette_preset_inner_A72,
+	}
+}

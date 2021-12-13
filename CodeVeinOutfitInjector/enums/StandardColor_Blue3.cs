@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum StandardColor_Blue3
+	{
+		palette_stg_blueviolet00,
+		palette_stg_blueviolet10,
+		palette_stg_blueviolet20,
+		palette_stg_blueviolet30,
+		palette_stg_blueviolet40,
+		palette_stg_blueviolet50,
+		palette_stg_blueviolet60,
+		palette_stg_blueviolet70,
+		palette_stg_blueviolet01,
+		palette_stg_blueviolet11,
+		palette_stg_blueviolet21,
+		palette_stg_blueviolet31,
+		palette_stg_blueviolet41,
+		palette_stg_blueviolet51,
+		palette_stg_blueviolet61,
+		palette_stg_blueviolet71,
+		palette_stg_blueviolet02,
+		palette_stg_blueviolet12,
+		palette_stg_blueviolet22,
+		palette_stg_blueviolet32,
+		palette_stg_blueviolet42,
+		palette_stg_blueviolet52,
+		palette_stg_blueviolet62,
+		palette_stg_blueviolet72,
+	}
+}

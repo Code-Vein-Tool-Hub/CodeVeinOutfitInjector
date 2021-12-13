@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum EyeColorGray
+	{
+		palette_eye_gray00,
+		palette_eye_gray10,
+		palette_eye_gray20,
+		palette_eye_gray30,
+		palette_eye_gray40,
+		palette_eye_gray50,
+		palette_eye_gray60,
+		palette_eye_gray70,
+		palette_eye_gray01,
+		palette_eye_gray11,
+		palette_eye_gray21,
+		palette_eye_gray31,
+		palette_eye_gray41,
+		palette_eye_gray51,
+		palette_eye_gray61,
+		palette_eye_gray71,
+		palette_eye_gray02,
+		palette_eye_gray12,
+		palette_eye_gray22,
+		palette_eye_gray32,
+		palette_eye_gray42,
+		palette_eye_gray52,
+		palette_eye_gray62,
+		palette_eye_gray72,
+	}
+}

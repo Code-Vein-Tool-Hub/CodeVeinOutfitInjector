@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor10
+	{
+		palette_preset_poison00,
+		palette_preset_poison10,
+		palette_preset_poison20,
+		palette_preset_poison30,
+		palette_preset_poison40,
+		palette_preset_poison50,
+		palette_preset_poison60,
+		palette_preset_poison70,
+		palette_preset_poison01,
+		palette_preset_poison11,
+		palette_preset_poison21,
+		palette_preset_poison31,
+		palette_preset_poison41,
+		palette_preset_poison51,
+		palette_preset_poison61,
+		palette_preset_poison71,
+		palette_preset_poison02,
+		palette_preset_poison12,
+		palette_preset_poison22,
+		palette_preset_poison32,
+		palette_preset_poison42,
+		palette_preset_poison52,
+		palette_preset_poison62,
+		palette_preset_poison72,
+	}
+}

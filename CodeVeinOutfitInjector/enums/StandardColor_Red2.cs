@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum StandardColor_Red2
+	{
+		palette_stg_red00,
+		palette_stg_red10,
+		palette_stg_red20,
+		palette_stg_red30,
+		palette_stg_red40,
+		palette_stg_red50,
+		palette_stg_red60,
+		palette_stg_red70,
+		palette_stg_red01,
+		palette_stg_red11,
+		palette_stg_red21,
+		palette_stg_red31,
+		palette_stg_red41,
+		palette_stg_red51,
+		palette_stg_red61,
+		palette_stg_red71,
+		palette_stg_red02,
+		palette_stg_red12,
+		palette_stg_red22,
+		palette_stg_red32,
+		palette_stg_red42,
+		palette_stg_red52,
+		palette_stg_red62,
+		palette_stg_red72,
+	}
+}

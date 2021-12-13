@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor2
+	{
+		palette_preset_autumn00,
+		palette_preset_autumn10,
+		palette_preset_autumn20,
+		palette_preset_autumn30,
+		palette_preset_autumn40,
+		palette_preset_autumn50,
+		palette_preset_autumn60,
+		palette_preset_autumn70,
+		palette_preset_autumn01,
+		palette_preset_autumn11,
+		palette_preset_autumn21,
+		palette_preset_autumn31,
+		palette_preset_autumn41,
+		palette_preset_autumn51,
+		palette_preset_autumn61,
+		palette_preset_autumn71,
+		palette_preset_autumn02,
+		palette_preset_autumn12,
+		palette_preset_autumn22,
+		palette_preset_autumn32,
+		palette_preset_autumn42,
+		palette_preset_autumn52,
+		palette_preset_autumn62,
+		palette_preset_autumn72,
+	}
+}

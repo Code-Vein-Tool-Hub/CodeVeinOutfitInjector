@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor7
+	{
+		palette_preset_newmoon00,
+		palette_preset_newmoon10,
+		palette_preset_newmoon20,
+		palette_preset_newmoon30,
+		palette_preset_newmoon40,
+		palette_preset_newmoon50,
+		palette_preset_newmoon60,
+		palette_preset_newmoon70,
+		palette_preset_newmoon01,
+		palette_preset_newmoon11,
+		palette_preset_newmoon21,
+		palette_preset_newmoon31,
+		palette_preset_newmoon41,
+		palette_preset_newmoon51,
+		palette_preset_newmoon61,
+		palette_preset_newmoon71,
+		palette_preset_newmoon02,
+		palette_preset_newmoon12,
+		palette_preset_newmoon22,
+		palette_preset_newmoon32,
+		palette_preset_newmoon42,
+		palette_preset_newmoon52,
+		palette_preset_newmoon62,
+		palette_preset_newmoon72,
+	}
+}

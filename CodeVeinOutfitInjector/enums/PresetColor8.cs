@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor8
+	{
+		palette_preset_twilight00,
+		palette_preset_twilight10,
+		palette_preset_twilight20,
+		palette_preset_twilight30,
+		palette_preset_twilight40,
+		palette_preset_twilight50,
+		palette_preset_twilight60,
+		palette_preset_twilight70,
+		palette_preset_twilight01,
+		palette_preset_twilight11,
+		palette_preset_twilight21,
+		palette_preset_twilight31,
+		palette_preset_twilight41,
+		palette_preset_twilight51,
+		palette_preset_twilight61,
+		palette_preset_twilight71,
+		palette_preset_twilight02,
+		palette_preset_twilight12,
+		palette_preset_twilight22,
+		palette_preset_twilight32,
+		palette_preset_twilight42,
+		palette_preset_twilight52,
+		palette_preset_twilight62,
+		palette_preset_twilight72,
+	}
+}

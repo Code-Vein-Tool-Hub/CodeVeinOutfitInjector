@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum HairColorAsh
+	{
+		palette_hair_ash00,
+		palette_hair_ash10,
+		palette_hair_ash20,
+		palette_hair_ash30,
+		palette_hair_ash40,
+		palette_hair_ash50,
+		palette_hair_ash60,
+		palette_hair_ash70,
+		palette_hair_ash01,
+		palette_hair_ash11,
+		palette_hair_ash21,
+		palette_hair_ash31,
+		palette_hair_ash41,
+		palette_hair_ash51,
+		palette_hair_ash61,
+		palette_hair_ash71,
+		palette_hair_ash02,
+		palette_hair_ash12,
+		palette_hair_ash22,
+		palette_hair_ash32,
+		palette_hair_ash42,
+		palette_hair_ash52,
+		palette_hair_ash62,
+		palette_hair_ash72,
+	}
+}

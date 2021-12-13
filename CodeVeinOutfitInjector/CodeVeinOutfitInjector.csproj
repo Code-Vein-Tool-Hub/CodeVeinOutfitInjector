@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{999C4DCA-21C4-4B6E-9385-AA45F70A27EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CodeVeinOutfitInjector</RootNamespace>
+    <AssemblyName>CodeVeinOutfitInjector</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UAssetAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Ref\UAssetAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="enums\ColorSet.cs" />
+    <Compile Include="enums\PastelColor1.cs" />
+    <Compile Include="enums\PastelColor2.cs" />
+    <Compile Include="enums\PastelColor3.cs" />
+    <Compile Include="enums\PastelColor4.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enums\EyeColorAmber.cs" />
+    <Compile Include="enums\EyeColorBlue.cs" />
+    <Compile Include="enums\EyeColorBrown.cs" />
+    <Compile Include="enums\EyeColorGray.cs" />
+    <Compile Include="enums\EyeColorGreen.cs" />
+    <Compile Include="enums\EyeColorHazel.cs" />
+    <Compile Include="enums\EyeColorRed.cs" />
+    <Compile Include="enums\EyeColorViolet.cs" />
+    <Compile Include="enums\HairColorAsh.cs" />
+    <Compile Include="enums\HairColorAsh2.cs" />
+    <Compile Include="enums\HairColorBlack.cs" />
+    <Compile Include="enums\HairColorBlack2.cs" />
+    <Compile Include="enums\HairColorBlonde.cs" />
+    <Compile Include="enums\HairColorBlonde2.cs" />
+    <Compile Include="enums\HairColorBlonde3.cs" />
+    <Compile Include="enums\HairColorBrown.cs" />
+    <Compile Include="enums\HairColorBrown2.cs" />
+    <Compile Include="enums\HairColorGinger.cs" />
+    <Compile Include="enums\InnerColorA.cs" />
+    <Compile Include="enums\InnerColorB.cs" />
+    <Compile Include="enums\InnerColorC.cs" />
+    <Compile Include="enums\InnerColorD.cs" />
+    <Compile Include="enums\InnerColorE.cs" />
+    <Compile Include="enums\InnerColorF.cs" />
+    <Compile Include="enums\InnerColorG.cs" />
+    <Compile Include="enums\PresetColor1.cs" />
+    <Compile Include="enums\PresetColor10.cs" />
+    <Compile Include="enums\PresetColor11.cs" />
+    <Compile Include="enums\PresetColor2.cs" />
+    <Compile Include="enums\PresetColor3.cs" />
+    <Compile Include="enums\PresetColor4.cs" />
+    <Compile Include="enums\PresetColor5.cs" />
+    <Compile Include="enums\PresetColor6.cs" />
+    <Compile Include="enums\PresetColor7.cs" />
+    <Compile Include="enums\PresetColor8.cs" />
+    <Compile Include="enums\PresetColor9.cs" />
+    <Compile Include="enums\PresetColor_Makeup1.cs" />
+    <Compile Include="enums\PresetColor_Makeup2.cs" />
+    <Compile Include="enums\PresetColor_Makeup3.cs" />
+    <Compile Include="enums\PresetColor_Makeup4.cs" />
+    <Compile Include="enums\PresetColor_Makeup5.cs" />
+    <Compile Include="enums\PresetColor_Makeup6.cs" />
+    <Compile Include="enums\SkinColor1.cs" />
+    <Compile Include="enums\SkinColor2.cs" />
+    <Compile Include="enums\SkinColor3.cs" />
+    <Compile Include="enums\SkinColor4.cs" />
+    <Compile Include="enums\SkinColor5.cs" />
+    <Compile Include="enums\SkinColor6.cs" />
+    <Compile Include="enums\SkinColor7.cs" />
+    <Compile Include="enums\StandardColor_Blue1.cs" />
+    <Compile Include="enums\StandardColor_Blue2.cs" />
+    <Compile Include="enums\StandardColor_Blue3.cs" />
+    <Compile Include="enums\StandardColor_Gray1.cs" />
+    <Compile Include="enums\StandardColor_Gray2.cs" />
+    <Compile Include="enums\StandardColor_Gray3.cs" />
+    <Compile Include="enums\StandardColor_Green1.cs" />
+    <Compile Include="enums\StandardColor_Pastel1.cs" />
+    <Compile Include="enums\StandardColor_Pastel2.cs" />
+    <Compile Include="enums\StandardColor_Pastel3.cs" />
+    <Compile Include="enums\StandardColor_Pastel4.cs" />
+    <Compile Include="enums\StandardColor_Pink1.cs" />
+    <Compile Include="enums\StandardColor_Red1.cs" />
+    <Compile Include="enums\StandardColor_Red2.cs" />
+    <Compile Include="enums\StandardColor_Red3.cs" />
+    <Compile Include="enums\StandardColor_Red4.cs" />
+    <Compile Include="enums\StandardColor_Violet1.cs" />
+    <Compile Include="enums\StandardColor_Violet2.cs" />
+    <Compile Include="enums\StandardColor_Violet3.cs" />
+    <Compile Include="enums\StandardColor_Yellow1.cs" />
+    <Compile Include="enums\StandardColor_Yellow2.cs" />
+    <Compile Include="enums\StandardColor_Yellow3.cs" />
+    <Compile Include="PremadeObjects.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+    <Content Include="Ref\Newtonsoft.Json.dll" />
+    <Content Include="Ref\UAssetAPI.dll" />
+    <Content Include="Ref\UAssetAPI.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

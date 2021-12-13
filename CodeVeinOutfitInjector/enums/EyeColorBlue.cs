@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum EyeColorBlue
+	{
+		palette_eye_blue00,
+		palette_eye_blue10,
+		palette_eye_blue20,
+		palette_eye_blue30,
+		palette_eye_blue40,
+		palette_eye_blue50,
+		palette_eye_blue60,
+		palette_eye_blue70,
+		palette_eye_blue01,
+		palette_eye_blue11,
+		palette_eye_blue21,
+		palette_eye_blue31,
+		palette_eye_blue41,
+		palette_eye_blue51,
+		palette_eye_blue61,
+		palette_eye_blue71,
+		palette_eye_blue02,
+		palette_eye_blue12,
+		palette_eye_blue22,
+		palette_eye_blue32,
+		palette_eye_blue42,
+		palette_eye_blue52,
+		palette_eye_blue62,
+		palette_eye_blue72,
+	}
+}

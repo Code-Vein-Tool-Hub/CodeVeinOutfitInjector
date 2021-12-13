@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum HairColorBlonde3
+	{
+		palette_hair_shinyblonde00,
+		palette_hair_shinyblonde10,
+		palette_hair_shinyblonde20,
+		palette_hair_shinyblonde30,
+		palette_hair_shinyblonde40,
+		palette_hair_shinyblonde50,
+		palette_hair_shinyblonde60,
+		palette_hair_shinyblonde70,
+		palette_hair_shinyblonde01,
+		palette_hair_shinyblonde11,
+		palette_hair_shinyblonde21,
+		palette_hair_shinyblonde31,
+		palette_hair_shinyblonde41,
+		palette_hair_shinyblonde51,
+		palette_hair_shinyblonde61,
+		palette_hair_shinyblonde71,
+		palette_hair_shinyblonde02,
+		palette_hair_shinyblonde12,
+		palette_hair_shinyblonde22,
+		palette_hair_shinyblonde32,
+		palette_hair_shinyblonde42,
+		palette_hair_shinyblonde52,
+		palette_hair_shinyblonde62,
+		palette_hair_shinyblonde72,
+	}
+}

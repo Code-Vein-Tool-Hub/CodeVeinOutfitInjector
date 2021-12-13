@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PastelColor2
+	{
+		palette_st_pastel_201,
+		palette_st_pastel_211,
+		palette_st_pastel_221,
+		palette_st_pastel_231,
+		palette_st_pastel_241,
+		palette_st_pastel_251,
+		palette_st_pastel_261,
+		palette_st_pastel_271,
+		palette_st_pastel_202,
+		palette_st_pastel_212,
+		palette_st_pastel_222,
+		palette_st_pastel_232,
+		palette_st_pastel_242,
+		palette_st_pastel_252,
+		palette_st_pastel_262,
+		palette_st_pastel_272,
+		palette_st_pastel_203,
+		palette_st_pastel_213,
+		palette_st_pastel_223,
+		palette_st_pastel_233,
+		palette_st_pastel_243,
+		palette_st_pastel_253,
+		palette_st_pastel_263,
+		palette_st_pastel_273,
+	}
+}

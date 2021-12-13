@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum HairColorBlack2
+	{
+		palette_hair_black200,
+		palette_hair_black210,
+		palette_hair_black220,
+		palette_hair_black230,
+		palette_hair_black240,
+		palette_hair_black250,
+		palette_hair_black260,
+		palette_hair_black270,
+		palette_hair_black201,
+		palette_hair_black211,
+		palette_hair_black221,
+		palette_hair_black231,
+		palette_hair_black241,
+		palette_hair_black251,
+		palette_hair_black261,
+		palette_hair_black271,
+		palette_hair_black202,
+		palette_hair_black212,
+		palette_hair_black222,
+		palette_hair_black232,
+		palette_hair_black242,
+		palette_hair_black252,
+		palette_hair_black262,
+		palette_hair_black272,
+	}
+}

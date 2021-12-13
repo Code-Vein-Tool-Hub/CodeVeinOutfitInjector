@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum StandardColor_Gray3
+	{
+		palette_st_gray_warm00,
+		palette_st_gray_warm10,
+		palette_st_gray_warm20,
+		palette_st_gray_warm30,
+		palette_st_gray_warm40,
+		palette_st_gray_warm50,
+		palette_st_gray_warm60,
+		palette_st_gray_warm70,
+		palette_st_gray_warm01,
+		palette_st_gray_warm11,
+		palette_st_gray_warm21,
+		palette_st_gray_warm31,
+		palette_st_gray_warm41,
+		palette_st_gray_warm51,
+		palette_st_gray_warm61,
+		palette_st_gray_warm71,
+		palette_st_gray_warm02,
+		palette_st_gray_warm12,
+		palette_st_gray_warm22,
+		palette_st_gray_warm32,
+		palette_st_gray_warm42,
+		palette_st_gray_warm52,
+		palette_st_gray_warm62,
+		palette_st_gray_warm72,
+	}
+}

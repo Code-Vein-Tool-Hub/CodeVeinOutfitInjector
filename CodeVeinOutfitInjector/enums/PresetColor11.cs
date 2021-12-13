@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor11
+	{
+		palette_preset_pank00,
+		palette_preset_pank10,
+		palette_preset_pank20,
+		palette_preset_pank30,
+		palette_preset_pank40,
+		palette_preset_pank50,
+		palette_preset_pank60,
+		palette_preset_pank70,
+		palette_preset_pank01,
+		palette_preset_pank11,
+		palette_preset_pank21,
+		palette_preset_pank31,
+		palette_preset_pank41,
+		palette_preset_pank51,
+		palette_preset_pank61,
+		palette_preset_pank71,
+		palette_preset_pank02,
+		palette_preset_pank12,
+		palette_preset_pank22,
+		palette_preset_pank32,
+		palette_preset_pank42,
+		palette_preset_pank52,
+		palette_preset_pank62,
+		palette_preset_pank72,
+	}
+}

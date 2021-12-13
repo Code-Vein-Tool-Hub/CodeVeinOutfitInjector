@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum StandardColor_Gray1
+	{
+		palette_stg_monotone00,
+		palette_stg_monotone10,
+		palette_stg_monotone20,
+		palette_stg_monotone30,
+		palette_stg_monotone40,
+		palette_stg_monotone50,
+		palette_stg_monotone60,
+		palette_stg_monotone70,
+		palette_stg_monotone01,
+		palette_stg_monotone11,
+		palette_stg_monotone21,
+		palette_stg_monotone31,
+		palette_stg_monotone41,
+		palette_stg_monotone51,
+		palette_stg_monotone61,
+		palette_stg_monotone71,
+		palette_stg_monotone02,
+		palette_stg_monotone12,
+		palette_stg_monotone22,
+		palette_stg_monotone32,
+		palette_stg_monotone42,
+		palette_stg_monotone52,
+		palette_stg_monotone62,
+		palette_stg_monotone72,
+	}
+}

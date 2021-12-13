@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor6
+	{
+		palette_preset_greenbrowngray00,
+		palette_preset_greenbrowngray10,
+		palette_preset_greenbrowngray20,
+		palette_preset_greenbrowngray30,
+		palette_preset_greenbrowngray40,
+		palette_preset_greenbrowngray50,
+		palette_preset_greenbrowngray60,
+		palette_preset_greenbrowngray70,
+		palette_preset_greenbrowngray01,
+		palette_preset_greenbrowngray11,
+		palette_preset_greenbrowngray21,
+		palette_preset_greenbrowngray31,
+		palette_preset_greenbrowngray41,
+		palette_preset_greenbrowngray51,
+		palette_preset_greenbrowngray61,
+		palette_preset_greenbrowngray71,
+		palette_preset_greenbrowngray02,
+		palette_preset_greenbrowngray12,
+		palette_preset_greenbrowngray22,
+		palette_preset_greenbrowngray32,
+		palette_preset_greenbrowngray42,
+		palette_preset_greenbrowngray52,
+		palette_preset_greenbrowngray62,
+		palette_preset_greenbrowngray72,
+	}
+}

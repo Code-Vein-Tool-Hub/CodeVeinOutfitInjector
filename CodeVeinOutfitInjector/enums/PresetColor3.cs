@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor3
+	{
+		palette_preset_blueblood00,
+		palette_preset_blueblood10,
+		palette_preset_blueblood20,
+		palette_preset_blueblood30,
+		palette_preset_blueblood40,
+		palette_preset_blueblood50,
+		palette_preset_blueblood60,
+		palette_preset_blueblood70,
+		palette_preset_blueblood01,
+		palette_preset_blueblood11,
+		palette_preset_blueblood21,
+		palette_preset_blueblood31,
+		palette_preset_blueblood41,
+		palette_preset_blueblood51,
+		palette_preset_blueblood61,
+		palette_preset_blueblood71,
+		palette_preset_blueblood02,
+		palette_preset_blueblood12,
+		palette_preset_blueblood22,
+		palette_preset_blueblood32,
+		palette_preset_blueblood42,
+		palette_preset_blueblood52,
+		palette_preset_blueblood62,
+		palette_preset_blueblood72,
+	}
+}

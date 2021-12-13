@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum EyeColorHazel
+	{
+		palette_eye_hazel00,
+		palette_eye_hazel10,
+		palette_eye_hazel20,
+		palette_eye_hazel30,
+		palette_eye_hazel40,
+		palette_eye_hazel50,
+		palette_eye_hazel60,
+		palette_eye_hazel70,
+		palette_eye_hazel01,
+		palette_eye_hazel11,
+		palette_eye_hazel21,
+		palette_eye_hazel31,
+		palette_eye_hazel41,
+		palette_eye_hazel51,
+		palette_eye_hazel61,
+		palette_eye_hazel71,
+		palette_eye_hazel02,
+		palette_eye_hazel12,
+		palette_eye_hazel22,
+		palette_eye_hazel32,
+		palette_eye_hazel42,
+		palette_eye_hazel52,
+		palette_eye_hazel62,
+		palette_eye_hazel72,
+	}
+}

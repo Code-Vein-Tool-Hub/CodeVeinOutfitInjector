@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum EyeColorBrown
+	{
+		palette_eye_brown00,
+		palette_eye_brown10,
+		palette_eye_brown20,
+		palette_eye_brown30,
+		palette_eye_brown40,
+		palette_eye_brown50,
+		palette_eye_brown60,
+		palette_eye_brown70,
+		palette_eye_brown01,
+		palette_eye_brown11,
+		palette_eye_brown21,
+		palette_eye_brown31,
+		palette_eye_brown41,
+		palette_eye_brown51,
+		palette_eye_brown61,
+		palette_eye_brown71,
+		palette_eye_brown02,
+		palette_eye_brown12,
+		palette_eye_brown22,
+		palette_eye_brown32,
+		palette_eye_brown42,
+		palette_eye_brown52,
+		palette_eye_brown62,
+		palette_eye_brown72,
+	}
+}

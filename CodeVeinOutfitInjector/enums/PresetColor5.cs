@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor5
+	{
+		palette_preset_gangsta00,
+		palette_preset_gangsta10,
+		palette_preset_gangsta20,
+		palette_preset_gangsta30,
+		palette_preset_gangsta40,
+		palette_preset_gangsta50,
+		palette_preset_gangsta60,
+		palette_preset_gangsta70,
+		palette_preset_gangsta01,
+		palette_preset_gangsta11,
+		palette_preset_gangsta21,
+		palette_preset_gangsta31,
+		palette_preset_gangsta41,
+		palette_preset_gangsta51,
+		palette_preset_gangsta61,
+		palette_preset_gangsta71,
+		palette_preset_gangsta02,
+		palette_preset_gangsta12,
+		palette_preset_gangsta22,
+		palette_preset_gangsta32,
+		palette_preset_gangsta42,
+		palette_preset_gangsta52,
+		palette_preset_gangsta62,
+		palette_preset_gangsta72,
+	}
+}

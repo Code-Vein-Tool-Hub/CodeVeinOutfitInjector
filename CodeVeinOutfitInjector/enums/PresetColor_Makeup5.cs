@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum PresetColor_Makeup5
+	{
+		palette_preset_makeup500,
+		palette_preset_makeup510,
+		palette_preset_makeup520,
+		palette_preset_makeup530,
+		palette_preset_makeup540,
+		palette_preset_makeup550,
+		palette_preset_makeup560,
+		palette_preset_makeup570,
+		palette_preset_makeup501,
+		palette_preset_makeup511,
+		palette_preset_makeup521,
+		palette_preset_makeup531,
+		palette_preset_makeup541,
+		palette_preset_makeup551,
+		palette_preset_makeup561,
+		palette_preset_makeup571,
+		palette_preset_makeup502,
+		palette_preset_makeup512,
+		palette_preset_makeup522,
+		palette_preset_makeup532,
+		palette_preset_makeup542,
+		palette_preset_makeup552,
+		palette_preset_makeup562,
+		palette_preset_makeup572,
+	}
+}

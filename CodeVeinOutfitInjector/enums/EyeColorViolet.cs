@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum EyeColorViolet
+	{
+		palette_eye_violet00,
+		palette_eye_violet10,
+		palette_eye_violet20,
+		palette_eye_violet30,
+		palette_eye_violet40,
+		palette_eye_violet50,
+		palette_eye_violet60,
+		palette_eye_violet70,
+		palette_eye_violet01,
+		palette_eye_violet11,
+		palette_eye_violet21,
+		palette_eye_violet31,
+		palette_eye_violet41,
+		palette_eye_violet51,
+		palette_eye_violet61,
+		palette_eye_violet71,
+		palette_eye_violet02,
+		palette_eye_violet12,
+		palette_eye_violet22,
+		palette_eye_violet32,
+		palette_eye_violet42,
+		palette_eye_violet52,
+		palette_eye_violet62,
+		palette_eye_violet72,
+	}
+}

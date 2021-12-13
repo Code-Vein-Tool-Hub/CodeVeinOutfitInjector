@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum StandardColor_Yellow2
+	{
+		palette_stg_yellow00,
+		palette_stg_yellow10,
+		palette_stg_yellow20,
+		palette_stg_yellow30,
+		palette_stg_yellow40,
+		palette_stg_yellow50,
+		palette_stg_yellow60,
+		palette_stg_yellow70,
+		palette_stg_yellow01,
+		palette_stg_yellow11,
+		palette_stg_yellow21,
+		palette_stg_yellow31,
+		palette_stg_yellow41,
+		palette_stg_yellow51,
+		palette_stg_yellow61,
+		palette_stg_yellow71,
+		palette_stg_yellow02,
+		palette_stg_yellow12,
+		palette_stg_yellow22,
+		palette_stg_yellow32,
+		palette_stg_yellow42,
+		palette_stg_yellow52,
+		palette_stg_yellow62,
+		palette_stg_yellow72,
+	}
+}

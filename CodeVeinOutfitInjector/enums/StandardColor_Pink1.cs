@@ -1,0 +1,30 @@
+namespace CodeVeinOutfitInjector
+{
+	public enum StandardColor_Pink1
+	{
+		palette_stg_pink00,
+		palette_stg_pink10,
+		palette_stg_pink20,
+		palette_stg_pink30,
+		palette_stg_pink40,
+		palette_stg_pink50,
+		palette_stg_pink60,
+		palette_stg_pink70,
+		palette_stg_pink01,
+		palette_stg_pink11,
+		palette_stg_pink21,
+		palette_stg_pink31,
+		palette_stg_pink41,
+		palette_stg_pink51,
+		palette_stg_pink61,
+		palette_stg_pink71,
+		palette_stg_pink02,
+		palette_stg_pink12,
+		palette_stg_pink22,
+		palette_stg_pink32,
+		palette_stg_pink42,
+		palette_stg_pink52,
+		palette_stg_pink62,
+		palette_stg_pink72,
+	}
+}
