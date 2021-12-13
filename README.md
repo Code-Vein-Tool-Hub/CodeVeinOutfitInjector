@@ -19,5 +19,8 @@ All edits in the Main Section will only be updated when you press the "Save Entr
 Added or Removing Hide Options will automatically update the Outfits Entry, changing the Name or the Thumbnail of the selected hide option will require using the "Save" Button to update the entry.
 
 
+## Dependencies
+- [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework)
+
 ## Credits
 [UAssetAPI](https://github.com/atenfyr/UAssetAPI) by atenfy, Used for phrasing the uasset files
