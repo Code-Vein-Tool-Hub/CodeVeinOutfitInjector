@@ -1,3 +1,6 @@
+# Work moved to [Project Queen](https://github.com/Code-Vein-Tool-Hub/Project-Queen)
+This program will no longer get any updates please use the better rewrite Project Queen instead
+
 # Code Vein Outfit Injector
 A simple Gui tool for adding new inner outfits to Code Vein.  
 
